@@ -1,0 +1,15 @@
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\bin\Debug\DotNetMusicPlay.exe.config
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\bin\Debug\DotNetMusicPlay.exe
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\bin\Debug\DotNetMusicPlay.pdb
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\bin\Debug\Interop.WMPLib.dll
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.csprojAssemblyReference.cache
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\Interop.WMPLib.dll
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.csproj.ResolveComReference.cache
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.Form1.resources
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.Properties.Resources.resources
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.csproj.GenerateResource.cache
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.csproj.CoreCompileInputs.cache
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.exe
+C:\Users\child\Desktop\C# PROJECT\DotNetMusicPlay\DotNetMusicPlay\obj\Debug\DotNetMusicPlay.pdb
